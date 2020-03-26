@@ -1,0 +1,32 @@
+.bg-white {
+    background-color: white;
+}
+.navbar {
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+#nav-brand {
+    padding: 8px;
+    margin: 0px 0px 0px 50px;
+    border: 0%;
+}
+.sum-img {
+    max-height: 200px;
+}
+.sum-con {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.vis-con {
+    padding: 10px;
+}
+.vis-img {
+    max-width: 150px;
+}
+.content-title {
+    margin: 35px 0px 0px 25px;
+}
+.content-con {
+    /* margin: 20px; */
+}
